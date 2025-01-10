@@ -1,12 +1,12 @@
-# Arcadia ![Build and deploy](https://github.com/giancosta86/Arcadia/workflows/Build%20and%20deploy/badge.svg)
+# Arcadia
 
 _Dreams and poetry_
 
 ## Introduction
 
-This is the GitHub project page for [Arcadia](https://gianlucacosta.info/Arcadia), my website devoted to dreams, literature and philosophy: here, you can browse its source files.
+This is the GitHub project page for [Arcadia](https://gianlucacosta.info/arcadia), my website devoted to dreams, literature and philosophy: here, you can browse its source files.
 
-Most important, you are all invited to [visit Arcadia](https://gianlucacosta.info/Arcadia)!
+Most important, you are all invited to [visit its literary content](https://gianlucacosta.info/arcadia)!
 
 ## License
 

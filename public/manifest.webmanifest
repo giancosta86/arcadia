@@ -16,10 +16,10 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/Arcadia",
+  "start_url": "/arcadia",
   "background_color": "#ffffff",
   "display": "fullscreen",
-  "scope": "/Arcadia",
+  "scope": "/arcadia",
   "theme_color": "#e5f9ff",
   "orientation": "portrait"
 }
