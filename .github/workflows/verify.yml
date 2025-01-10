@@ -14,8 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: giancosta86/aurora-github/actions/inject-branch-version@v4.0.0
-
-      - uses: giancosta86/aurora-github/actions/verify-npm-package@v4.0.0
-        with:
-          enforce-esm: false
+      - uses: giancosta86/aurora-github/actions/verify-npm-package@v8

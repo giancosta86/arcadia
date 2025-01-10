@@ -21,14 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: giancosta86/aurora-github/actions/inject-branch-version@v4.0.0
+      - uses: giancosta86/aurora-github/actions/publish-github-pages@v8
 
-      - uses: giancosta86/aurora-github/actions/setup-nodejs-context@v4.0.0
-
-      - run: pnpm build
-
-      - uses: giancosta86/aurora-github/actions/publish-github-pages@v4.0.0
-        with:
-          source-directory: out
-
-      - uses: giancosta86/aurora-github/actions/tag-and-release@v4.0.0
+      - uses: giancosta86/aurora-github/actions/tag-and-release@v8
