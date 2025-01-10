@@ -9,7 +9,7 @@ const enforceModuleResolution = (webpackConfig, moduleName) => {
 };
 
 module.exports = {
-  basePath: "/Arcadia",
+  basePath: "/arcadia",
 
   webpack: config => {
     ["react", "react-dom"].forEach(moduleName =>
