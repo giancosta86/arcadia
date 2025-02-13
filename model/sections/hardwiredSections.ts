@@ -6,6 +6,7 @@ export const hardwiredSections = List.of<Section>(
     id: "season-4",
     name: "Season 4",
     compositionIds: List.of<string>(
+      "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -128,6 +129,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poeta",
     name: "Il poeta",
     compositionIds: List.of<string>(
+      "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
       "maiale-incipriato",
@@ -169,6 +171,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-oriente",
     name: "Drago d'Oriente",
     compositionIds: List.of<string>(
+      "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -232,6 +235,7 @@ export const hardwiredSections = List.of<Section>(
     id: "natura",
     name: "Quadri nella natura",
     compositionIds: List.of<string>(
+      "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
       "canzone-panda",
@@ -300,6 +304,7 @@ export const hardwiredSections = List.of<Section>(
     id: "amore",
     name: "Amore",
     compositionIds: List.of<string>(
+      "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -332,6 +337,7 @@ export const hardwiredSections = List.of<Section>(
     id: "filosofia",
     name: "Filosofia",
     compositionIds: List.of<string>(
+      "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -520,7 +526,7 @@ export const hardwiredSections = List.of<Section>(
   {
     id: "versi-liberi",
     name: "Versi liberi",
-    compositionIds: List.of<string>("sole-gentile")
+    compositionIds: List.of<string>("ti-amo-castano", "sole-gentile")
   },
   {
     id: "sonetti",
@@ -660,5 +666,10 @@ export const hardwiredSections = List.of<Section>(
       "le-biciclette",
       "aquila-pinguino"
     )
+  },
+  {
+    id: "songs",
+    name: "Canzoni",
+    compositionIds: List.of<string>("ti-amo-castano", "canzone-panda")
   }
 );
