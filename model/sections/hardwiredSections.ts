@@ -6,6 +6,7 @@ export const hardwiredSections = List.of<Section>(
     id: "season-4",
     name: "Season 4",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
@@ -129,6 +130,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poeta",
     name: "Il poeta",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
@@ -189,6 +191,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-infernale",
     name: "Drago infernale",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -207,6 +210,7 @@ export const hardwiredSections = List.of<Section>(
     id: "matta-mummia",
     name: "Matta mummia",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -279,6 +283,7 @@ export const hardwiredSections = List.of<Section>(
     id: "personaggi-gentili",
     name: "Personaggi gentili",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -304,6 +309,7 @@ export const hardwiredSections = List.of<Section>(
     id: "amore",
     name: "Amore",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
@@ -337,6 +343,7 @@ export const hardwiredSections = List.of<Section>(
     id: "filosofia",
     name: "Filosofia",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
@@ -448,6 +455,7 @@ export const hardwiredSections = List.of<Section>(
     id: "rima-alternata",
     name: "Rima alternata",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "ingegner-pecorone",
       "baffi-west",
       "mummia-infernale",
@@ -542,6 +550,8 @@ export const hardwiredSections = List.of<Section>(
     id: "italiano",
     name: "Brani in Italiano",
     compositionIds: List.of<string>(
+      "strega-ursula",
+      "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
@@ -612,6 +622,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poesie",
     name: "Poesie",
     compositionIds: List.of<string>(
+      "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
       "ingegner-pecorone",
