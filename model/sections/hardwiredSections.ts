@@ -6,6 +6,7 @@ export const hardwiredSections = List.of<Section>(
     id: "season-4",
     name: "Season 4",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
@@ -130,6 +131,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poeta",
     name: "Il poeta",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
@@ -173,6 +175,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-oriente",
     name: "Drago d'Oriente",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
@@ -239,6 +242,7 @@ export const hardwiredSections = List.of<Section>(
     id: "natura",
     name: "Quadri nella natura",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "ti-amo-castano",
       "tortino-discordia",
       "sfumature-drago",
@@ -283,6 +287,7 @@ export const hardwiredSections = List.of<Section>(
     id: "personaggi-gentili",
     name: "Personaggi gentili",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
@@ -309,6 +314,7 @@ export const hardwiredSections = List.of<Section>(
     id: "amore",
     name: "Amore",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
@@ -343,6 +349,7 @@ export const hardwiredSections = List.of<Section>(
     id: "filosofia",
     name: "Filosofia",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
@@ -534,7 +541,11 @@ export const hardwiredSections = List.of<Section>(
   {
     id: "versi-liberi",
     name: "Versi liberi",
-    compositionIds: List.of<string>("ti-amo-castano", "sole-gentile")
+    compositionIds: List.of<string>(
+      "celeste-drago",
+      "ti-amo-castano",
+      "sole-gentile"
+    )
   },
   {
     id: "sonetti",
@@ -550,6 +561,7 @@ export const hardwiredSections = List.of<Section>(
     id: "italiano",
     name: "Brani in Italiano",
     compositionIds: List.of<string>(
+      "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
       "tortino-discordia",
@@ -681,6 +693,10 @@ export const hardwiredSections = List.of<Section>(
   {
     id: "songs",
     name: "Canzoni",
-    compositionIds: List.of<string>("ti-amo-castano", "canzone-panda")
+    compositionIds: List.of<string>(
+      "celeste-drago",
+      "ti-amo-castano",
+      "canzone-panda"
+    )
   }
 );
