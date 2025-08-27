@@ -6,6 +6,7 @@ export const hardwiredSections = List.of<Section>(
     id: "season-4",
     name: "Season 4",
     compositionIds: List.of<string>(
+      "giornazisti",
       "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
@@ -175,6 +176,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-oriente",
     name: "Drago d'Oriente",
     compositionIds: List.of<string>(
+      "giornazisti",
       "celeste-drago",
       "ti-amo-castano",
       "tortino-discordia",
@@ -194,6 +196,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-infernale",
     name: "Drago infernale",
     compositionIds: List.of<string>(
+      "giornazisti",
       "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
@@ -213,6 +216,7 @@ export const hardwiredSections = List.of<Section>(
     id: "matta-mummia",
     name: "Matta mummia",
     compositionIds: List.of<string>(
+      "giornazisti",
       "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
@@ -349,6 +353,7 @@ export const hardwiredSections = List.of<Section>(
     id: "filosofia",
     name: "Filosofia",
     compositionIds: List.of<string>(
+      "giornazisti",
       "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
@@ -462,6 +467,7 @@ export const hardwiredSections = List.of<Section>(
     id: "rima-alternata",
     name: "Rima alternata",
     compositionIds: List.of<string>(
+      "giornazisti",
       "strega-ursula",
       "ingegner-pecorone",
       "baffi-west",
@@ -561,6 +567,7 @@ export const hardwiredSections = List.of<Section>(
     id: "italiano",
     name: "Brani in Italiano",
     compositionIds: List.of<string>(
+      "giornazisti",
       "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
@@ -634,6 +641,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poesie",
     name: "Poesie",
     compositionIds: List.of<string>(
+      "giornazisti",
       "strega-ursula",
       "tortino-discordia",
       "sfumature-drago",
