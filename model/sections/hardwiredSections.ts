@@ -6,6 +6,7 @@ export const hardwiredSections = List.of<Section>(
     id: "season-4",
     name: "Season 4",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
       "strega-ursula",
@@ -132,6 +133,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poeta",
     name: "Il poeta",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
@@ -176,6 +178,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-oriente",
     name: "Drago d'Oriente",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
       "ti-amo-castano",
@@ -196,6 +199,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-infernale",
     name: "Drago infernale",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
       "tortino-discordia",
@@ -216,6 +220,7 @@ export const hardwiredSections = List.of<Section>(
     id: "matta-mummia",
     name: "Matta mummia",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
       "tortino-discordia",
@@ -246,6 +251,7 @@ export const hardwiredSections = List.of<Section>(
     id: "natura",
     name: "Quadri nella natura",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "celeste-drago",
       "ti-amo-castano",
       "tortino-discordia",
@@ -291,6 +297,7 @@ export const hardwiredSections = List.of<Section>(
     id: "personaggi-gentili",
     name: "Personaggi gentili",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "celeste-drago",
       "strega-ursula",
       "tortino-discordia",
@@ -318,6 +325,7 @@ export const hardwiredSections = List.of<Section>(
     id: "amore",
     name: "Amore",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "celeste-drago",
       "strega-ursula",
       "ti-amo-castano",
@@ -353,6 +361,7 @@ export const hardwiredSections = List.of<Section>(
     id: "filosofia",
     name: "Filosofia",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
       "strega-ursula",
@@ -467,6 +476,7 @@ export const hardwiredSections = List.of<Section>(
     id: "rima-alternata",
     name: "Rima alternata",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
       "ingegner-pecorone",
@@ -567,6 +577,7 @@ export const hardwiredSections = List.of<Section>(
     id: "italiano",
     name: "Brani in Italiano",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
       "strega-ursula",
@@ -641,6 +652,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poesie",
     name: "Poesie",
     compositionIds: List.of<string>(
+      "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
       "tortino-discordia",
