@@ -4,6 +4,11 @@ import { Composition } from "./Composition";
 
 export const hardwiredCompositions = List.of<Composition>(
   {
+    id: "coalizione-depravati",
+    title: "La coalizione dei depravati",
+    date: new IsoDate("2025-12-11")
+  },
+  {
     id: "giornazisti",
     title: "I giornazisti",
     date: new IsoDate("2025-08-25")
