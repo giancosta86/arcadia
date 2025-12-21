@@ -235,6 +235,26 @@ export const hardwiredSections = List.of<Section>(
     )
   },
   {
+    id: "maiale-incipriato",
+    name: "Il maiale incipriato",
+    compositionIds: List.of<string>(
+      "coalizione-depravati",
+      "giornazisti",
+      "strega-ursula",
+      "maiale-incipriato"
+    )
+  },
+  {
+    id: "strega-ursula",
+    name: "La strega Ùrsula",
+    compositionIds: List.of<string>(
+      "coalizione-depravati",
+      "strega-ursula",
+      "maiale-incipriato",
+      "baffi-west"
+    )
+  },
+  {
     id: "gnomo-furetto-iena",
     name: "Gnomo, furetto, iena",
     compositionIds: List.of<string>(
