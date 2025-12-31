@@ -6,6 +6,7 @@ export const hardwiredSections = List.of<Section>(
     id: "season-4",
     name: "Season 4",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
@@ -178,6 +179,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-oriente",
     name: "Drago d'Oriente",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
@@ -199,6 +201,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-infernale",
     name: "Drago infernale",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
@@ -220,6 +223,7 @@ export const hardwiredSections = List.of<Section>(
     id: "matta-mummia",
     name: "Matta mummia",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
@@ -238,6 +242,7 @@ export const hardwiredSections = List.of<Section>(
     id: "maiale-incipriato",
     name: "Il maiale incipriato",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
@@ -248,6 +253,7 @@ export const hardwiredSections = List.of<Section>(
     id: "strega-ursula",
     name: "La strega Ùrsula",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "strega-ursula",
       "maiale-incipriato",
@@ -317,6 +323,7 @@ export const hardwiredSections = List.of<Section>(
     id: "personaggi-gentili",
     name: "Personaggi gentili",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "celeste-drago",
       "strega-ursula",
@@ -345,6 +352,7 @@ export const hardwiredSections = List.of<Section>(
     id: "amore",
     name: "Amore",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "celeste-drago",
       "strega-ursula",
@@ -381,6 +389,7 @@ export const hardwiredSections = List.of<Section>(
     id: "filosofia",
     name: "Filosofia",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
@@ -496,6 +505,7 @@ export const hardwiredSections = List.of<Section>(
     id: "rima-alternata",
     name: "Rima alternata",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
@@ -597,6 +607,7 @@ export const hardwiredSections = List.of<Section>(
     id: "italiano",
     name: "Brani in Italiano",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "celeste-drago",
@@ -672,6 +683,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poesie",
     name: "Poesie",
     compositionIds: List.of<string>(
+      "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
       "strega-ursula",
