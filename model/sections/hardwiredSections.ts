@@ -6,6 +6,7 @@ export const hardwiredSections = List.of<Section>(
     id: "season-4",
     name: "Season 4",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "discorso-mummia",
       "coalizione-depravati",
@@ -135,6 +136,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poeta",
     name: "Il poeta",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "coalizione-depravati",
       "celeste-drago",
@@ -181,6 +183,7 @@ export const hardwiredSections = List.of<Section>(
     id: "drago-oriente",
     name: "Drago d'Oriente",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "discorso-mummia",
       "coalizione-depravati",
@@ -309,6 +312,7 @@ export const hardwiredSections = List.of<Section>(
     id: "brio",
     name: "Momenti briosi",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "tortino-discordia",
       "regno-tramonto",
@@ -327,6 +331,7 @@ export const hardwiredSections = List.of<Section>(
     id: "personaggi-gentili",
     name: "Personaggi gentili",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "coalizione-depravati",
       "celeste-drago",
@@ -356,6 +361,7 @@ export const hardwiredSections = List.of<Section>(
     id: "amore",
     name: "Amore",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "discorso-mummia",
       "coalizione-depravati",
@@ -394,6 +400,7 @@ export const hardwiredSections = List.of<Section>(
     id: "filosofia",
     name: "Filosofia",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "discorso-mummia",
       "coalizione-depravati",
@@ -567,6 +574,7 @@ export const hardwiredSections = List.of<Section>(
     id: "rima-incrociata",
     name: "Rima incrociata",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "maiale-incipriato",
       "canzone-panda",
       "apocalissi-scimmiesca",
@@ -616,6 +624,7 @@ export const hardwiredSections = List.of<Section>(
     id: "italiano",
     name: "Brani in Italiano",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "sublime-drago",
       "discorso-mummia",
       "coalizione-depravati",
@@ -693,6 +702,7 @@ export const hardwiredSections = List.of<Section>(
     id: "poesie",
     name: "Poesie",
     compositionIds: List.of<string>(
+      "fragole-baffi",
       "discorso-mummia",
       "coalizione-depravati",
       "giornazisti",
